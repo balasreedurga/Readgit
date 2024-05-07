@@ -1,1 +1,1 @@
-# Readgit
+git is fun
